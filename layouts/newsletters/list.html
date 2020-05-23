@@ -1,0 +1,6 @@
+{{ define "main" }}
+  <div class="content main">
+    <h1>{{ .Data.Singular | title }} '{{ .Name }}'</h1>
+    {{ partial "newsletter" . }}
+  </div>
+{{ end }}

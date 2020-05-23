@@ -1,26 +1,19 @@
 baseURL = "https://deadstack.io"
 languageCode = "en-us"
-title = "Thuc's notes"
+title = "Deadstack"
 [taxonomies]
   category = "categories"
-  series = "series"
-  tag = "tags"
 [menu]
   [[menu.main]]
     identifier = "/"
-    name = "home"
+    name = "Trang chủ"
     url = "/"
     weight = 1
   [[menu.main]]
-    identifier = "series"
-    name = "series"
-    url = "/series/"
+    identifier = "newsletters"
+    name = "Newsletters"
+    url = "/newsletters/"
     weight = 2
-  [[menu.main]]
-    identifier = "tags"
-    name = "tags"
-    url = "/tags/"
-    weight = 3
 [markup]
   [markup.highlight]
     codeFences = true

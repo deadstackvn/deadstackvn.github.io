@@ -1,7 +1,7 @@
 +++
-title = "about me"
+title = "Chúng tôi là ai?"
 menu = "main"
-weight = 4
+weight = 3
 +++
 
 A software engineer, a husband and a father.

@@ -1,12 +1,7 @@
 {{ define "main" }}
-  <div class="main">
-    {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
-    {{ range $paginator.Pages }}
-      <div class="article">
-        <div class="title"><a href="{{ .Permalink }}">{{ .Title }}</a></div>
-        <div class="subtitle">{{ .Summary }}</div>
-      </div>
-    {{ end }}
-    {{ partial "pagination.html" . }}
-  </div>
-{{ end }}
+<div class="content main">
+  <h1>Các chủ đề gần đây</h1>
+  {{ partial "newsletter_home" . }}
+  <!-- <div class="more"><a href="/newsletters/">Xem thêm</a></div> -->
+</div>
+{{ end }}  

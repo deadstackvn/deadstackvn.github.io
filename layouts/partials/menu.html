@@ -1,0 +1,8 @@
+{{ $currentPage := . }}
+<div class="menu">
+{{ with .Site.Menus.main }}
+  {{ range . }}
+  <div class="item"><a class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}" href="{{ .URL | relURL }}">{{ .Name }}</a></div>
+  {{- end }}
+{{ end }}
+</div>

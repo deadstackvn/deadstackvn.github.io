@@ -1,11 +1,6 @@
+{{ $currentPage := . }}
 <div class="header">
-  {{ $currentPage := . }}
-  {{ .Site.Title }} &copy; {{ now.Year }}
-  <div class="menu">
-  {{ with .Site.Menus.main }}
-      {{ range . }}
-      | <a class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}" href="{{ .URL | relURL }}">{{ .Name }}</a>
-      {{- end }}
-  {{ end }}
-  </div>
+	<div class="content">
+	  <div class="logo">Dead<span class="underscore">stack</span></div>
+	</div>
 </div>
