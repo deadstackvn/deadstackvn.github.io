@@ -23,8 +23,8 @@
       gtag('config', 'UA-167486967-1');
     </script>
     <!-- Social Tags -->
-    <meta property="og:title" content="Deadstacks">
-    <meta property="og:description" content="Kênh công nghệ cùng nhau nghiên cứu nền tảng trong Software Development.">
+    <meta property="og:title" content="{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}">
+    <meta property="og:description" content="{{ if .Summary }}{{ .Summary }}{{ else }}{{ .Site.Params.Description }}{{ end }}">
     <meta property="og:image" content="https://deadstack.io/images/social.png">
     <meta property="og:image:type" content="image/png">
     <meta property="og:url" content="https://deadstack.io/index.html">

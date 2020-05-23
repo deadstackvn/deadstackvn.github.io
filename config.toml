@@ -25,3 +25,6 @@ title = "Deadstack"
     noClasses = true
     style = "github"
     tabWidth = 2
+[params]
+  title = "Deadstacks"
+  description = "Kênh công nghệ cùng nhau nghiên cứu nền tảng trong Software Development."
