@@ -1,7 +1,6 @@
 baseURL = "https://deadstack.io"
 languageCode = "en-us"
 title = "Thuc's notes"
-staticDir = ["root"]
 [taxonomies]
   category = "categories"
   series = "series"
