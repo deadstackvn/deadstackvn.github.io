@@ -1,4 +1,4 @@
-{{ $items := where .Site.Pages.Reverse "Params.categories" "newsletter" }}
+{{ $items := where .Site.Pages "Params.categories" "newsletter" }}
 {{ range first 5 $items  }}
   <div class="article">
     <h2><a class="title" href="{{ .Permalink }}">{{ .Title }}</a></h2>
