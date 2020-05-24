@@ -11,9 +11,9 @@ Sau khi ôn lại kỹ niệm xưa, chúng tôi quyết định cùng nhau.
 
 ## Làm Video Interview về công nghệ.
 
-Ấy vậy mà thời tới cản không nổi...
+Ấy vậy mà thời tới cản không nổi..
 
-Nhà nhà làm tech video...
+Nhà nhà làm tech video..
 
 Người người làm tech radio..
 
