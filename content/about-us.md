@@ -17,7 +17,7 @@ Nhà nhà làm tech video..
 
 Người người làm tech radio..
 
-## Vậy nên thôi chúng tôi quay lại làm nghiên cứu và chia sẽ kiến thức với nhau.
+## Vậy nên thôi chúng tôi quay lại làm nghiên cứu và chia sẻ kiến thức với nhau.
 
 Chúng tôi gom thêm vài bạn cùng chí hướng, cùng quan điểm.
 
@@ -25,7 +25,7 @@ Cùng nhau đào sâu vào nền tảng và những kiến thức căn bản tro
 
 Bước đầu, chúng tôi tl;dr những bài blog/post/video/book liên quan tới công nghệ hay.
 
-Tiếp sau, chúng tôi cố gắng nghiên cứu, viết và chia sẽ những vẫn đề công nghệ.
+Tiếp sau, chúng tôi cố gắng nghiên cứu, viết và chia sẻ những vẫn đề công nghệ.
 
 Và ai biết được mọi chuyện sẽ ra sao...
 
