@@ -25,7 +25,7 @@
     <!-- Social Tags -->
     <meta property="og:title" content="{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}">
     <meta property="og:description" content="{{ if .Summary }}{{ .Summary }}{{ else }}{{ .Site.Params.Description }}{{ end }}">
-    <meta property="og:image" content="https://deadstack.io/images/social.png">
+    <meta property="og:image" content="{{ if .Params.SocialImage }}{{ .Params.SocialImage }}{{ else }}{{ .Site.Params.SocialImage }}{{ end }}">
     <meta property="og:image:type" content="image/png">
     <meta property="og:type" content="website" />
   </head>

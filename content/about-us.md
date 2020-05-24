@@ -2,6 +2,7 @@
 title = "Chúng tôi là ai?"
 menu = "main"
 weight = 3
+socialImage = "/images/about-us.jpg"
 +++
 
 Chúng tôi là những người bạn, vô tình gặp nhau trong một ngày không mưa, không nắng.
