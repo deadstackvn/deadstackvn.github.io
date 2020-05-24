@@ -29,3 +29,5 @@ Tiếp sau, chúng tôi cố gắng nghiên cứu, viết và chia sẽ những 
 Và ai biết được mọi chuyện sẽ ra sao...
 
 ## Cùng chúng tôi phát triển nhé!!!
+
+![abs](/images/about-us.jpg)
